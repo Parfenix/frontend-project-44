@@ -10,8 +10,8 @@ make install
 
 ### How to play
 #### brain-even
-+What you need to do in the game: answer 'yes' if number is even, otherwise answer 'no'.
-+Start playing:
++ What you need to do in the game: answer 'yes' if number is even, otherwise answer 'no'.
++ Start playing:
 ```
 brain-even
 ```
@@ -19,8 +19,8 @@ brain-even
 [![asciicast](https://asciinema.org/a/72xaaJL0InZUypidU7P3C6YYG.svg)](https://asciinema.org/a/72xaaJL0InZUypidU7P3C6YYG)
 
 #### brain-calc
-+What you need to do in the game: write result of the expression.
-+Start playing:
++ What you need to do in the game: write result of the expression.
++ Start playing:
 ```
 brain-calc
 ```
@@ -28,8 +28,8 @@ brain-calc
 [![asciicast](https://asciinema.org/a/EqudZyu3UOIbu3whKwWNQAoij.svg)](https://asciinema.org/a/EqudZyu3UOIbu3whKwWNQAoij)
 
 #### brain-gcd
-+What you need to do in the game: find the greatest common divisor of given numbers.
-+Start playing:
++ What you need to do in the game: find the greatest common divisor of given numbers.
++ Start playing:
 ```
 brain-gcd
 ```
@@ -37,8 +37,8 @@ brain-gcd
 [![asciicast](https://asciinema.org/a/IKVmJOTqiSVO80Pz9yo3CXDZm.svg)](https://asciinema.org/a/IKVmJOTqiSVO80Pz9yo3CXDZm)
 
 #### brain-progression
-+What you need to do in the game: write missing number in the progression.
-+Start playing:
++ What you need to do in the game: write missing number in the progression.
++ Start playing:
 ```
 brain-progression
 ```
@@ -46,8 +46,8 @@ brain-progression
 [![asciicast](https://asciinema.org/a/sXbGgo75wxKeudjQXT9Y3VM6D.svg)](https://asciinema.org/a/sXbGgo75wxKeudjQXT9Y3VM6D)
 
 #### brain-prime
-+What you need to do in the game: answer 'yes' if given number is prime, otherwise answer 'no'.
-+Start playing:
++ What you need to do in the game: answer 'yes' if given number is prime, otherwise answer 'no'.
++ Start playing:
 ```
 brain-prime
 ```
