@@ -20,7 +20,7 @@ const getGameData = () => {
   const progression = getArithmeticProgression(start, step, length);
   const hiddenElement = getRandomNumber(0, length - 1);
   const rightAnswer = progression[hiddenElement];
-  progression[hiddenElement] = '...';
+  progression[hiddenElement] = '..';
   const question = progression.join(' ');
   return [question, String(rightAnswer)];
 };
