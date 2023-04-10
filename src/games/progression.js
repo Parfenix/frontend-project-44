@@ -1,7 +1,7 @@
 import gameEngine from '../index.js';
 import getRandomNumber from '../getRandomNumber.js';
 
-const gameRules = 'What number is missing in the progression?';
+const description = 'What number is missing in the progression?';
 
 const getArithmeticProgression = (start, step, length) => {
   const iter = (progression, counter) => {
@@ -25,4 +25,4 @@ const getGameData = () => {
   return [question, String(rightAnswer)];
 };
 
-export default () => gameEngine(gameRules, getGameData);
+export default () => gameEngine(description, getGameData);

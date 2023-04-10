@@ -1,7 +1,7 @@
 import gameEngine from '../index.js';
 import getRandomNumber from '../getRandomNumber.js';
 
-const gameRules = 'What is the result of the expression?';
+const description = 'What is the result of the expression?';
 const operators = ['+', '-', '*'];
 
 const calculate = (num1, num2, operator) => {
@@ -24,4 +24,4 @@ const getGameData = () => {
   return [question, String(rightAnswer)];
 };
 
-export default () => gameEngine(gameRules, getGameData);
+export default () => gameEngine(description, getGameData);
