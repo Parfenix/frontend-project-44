@@ -1,9 +1,8 @@
 import readlineSyns from 'readline-sync';
-import readline from 'readline-sync';
 
 const gameEngine = (description, gameData) => {
   console.log('Welcome to the Brain Games!');
-  const username = readline.question('May I have your name? ');
+  const username = readlineSyns.question('May I have your name? ');
   console.log(`Hello, ${username}!`);
   console.log(description);
   const numbersOfRounds = 3;
